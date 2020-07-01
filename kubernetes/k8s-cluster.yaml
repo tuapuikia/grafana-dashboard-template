@@ -2564,11 +2564,11 @@
         },
         "hide": 2,
         "label": "",
-        "name": "datasource",
+        "name": "DS_PROMETHEUS",
         "options": [],
         "query": "prometheus",
         "refresh": 1,
-        "regex": "/$ds/",
+        "regex": "/Prometheus/",
         "type": "datasource"
       },
       {
